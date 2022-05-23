@@ -5,23 +5,29 @@ Software to install after re-install windows
 2. Ethernet Driver
 3. IDM
 4. Everything
-5. Geforce Experience
-6. Steam
-7. Ezviz
-8. Unity Hub
-9. Visual Studio 2019
-10. Discord
-11. Avast
-12. Link Shell Extension (For Symbolic Link, Hard Link, etc)
-13. Audio Driver
-14. Logitech G Hub
-15. Microsoft Office
-16. https://git-scm.com
-18. https://desktop.github.com
-19. Notepad++
-20. CPU-Z
-21. GPU-Z
-22. Origin
-23. HWMonitor
-24. Plottr
-25. All VC_Redist x64 & x86 https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist
+5. UTorrent
+6. Winrar
+7. Adobe Acrobat DC
+8. Lightshot
+9. 
+10. Geforce Experience
+11. Steam
+12. Ezviz
+13. Unity Hub
+14. Visual Studio 2019
+15. Discord
+16. Avast
+17. Link Shell Extension (For Symbolic Link, Hard Link, etc)
+18. Audio Driver
+19. Logitech G Hub
+20. Microsoft Office
+21. https://git-scm.com
+22. https://desktop.github.com
+23. Notepad++
+24. CPU-Z
+25. GPU-Z
+26. Origin
+27. HWMonitor
+28. Plottr
+29. All VC_Redist x64 & x86 https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist
+30. 
