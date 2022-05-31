@@ -9,7 +9,7 @@ Software to install after re-install windows
 6. Winrar
 7. Adobe Acrobat DC
 8. Lightshot
-9. 
+9. ClipStudioPaint
 10. Geforce Experience
 11. Steam
 12. Ezviz
