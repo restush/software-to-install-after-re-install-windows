@@ -30,4 +30,4 @@ Software to install after re-install windows
 27. HWMonitor
 28. Plottr
 29. All VC_Redist x64 & x86 https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist
-30. 
+30. Daemon Tools
